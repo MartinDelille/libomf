@@ -1,0 +1,3 @@
+[submodule "vendors/bandit"]
+	path = vendors/bandit
+	url = https://github.com/banditcpp/bandit
