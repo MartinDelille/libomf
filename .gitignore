@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Qt
+
+*.pro.user
+*.autosave
