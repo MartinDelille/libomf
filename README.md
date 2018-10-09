@@ -1,6 +1,7 @@
 # libomf
 
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/martindelille/donate)
+[![Build Status](https://travis-ci.org/MartinDelille/signal-qt.svg?branch=master)](https://travis-ci.org/MartinDelille/signal-qt)
 
 Read and write OMF file from the [Open Media Framework Interchange](https://en.wikipedia.org/wiki/Open_Media_Framework_Interchange).
 
